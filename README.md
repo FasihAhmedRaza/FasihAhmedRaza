@@ -1,4 +1,5 @@
-
+![GitHub Snake](github-snake.svg)
+# <img src="https://emojis.slackmojis.com/emojis/images/1643514738/7421/typingcat.gif" width="30"/>
 <h1 align="center">Hi 👋, I'm Fasih Ahmed Raza</h1>
 <h3 align="center">A passionate AI Chatbot Developer| Full Stack Web Developer from Pakistan</h3>
 
