@@ -2,18 +2,20 @@
 
 <div align="center">
 
-<!-- ░ Animated header wave ░ -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0e2a47,50:1c5d99,100:2f7fb5&height=210&section=header&text=FASIH%20AHMED%20RAZA&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=AI%20%26%20Full%20Stack%20Engineer&descSize=22&descAlignY=60&descColor=cfe6ff" width="100%" alt="Fasih Ahmed Raza" />
+<!-- ░ Animated header wave (no text = reliable) ░ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e2a47,50:1c5d99,100:2f7fb5&height=160&section=header" width="100%" alt="header wave" />
 
-<br/>
+<!-- ░ Avatar, circular via wsrv.nl mask ░ -->
+<img src="https://wsrv.nl/?url=github.com/FasihAhmedRaza.png&w=240&h=240&fit=cover&mask=circle" width="170" alt="Fasih Ahmed Raza" />
 
-<!-- ░ Avatar inside glowing frame ░ -->
-<img src="https://github.com/FasihAhmedRaza.png?size=200" width="160" alt="Fasih Ahmed Raza" />
+<!-- ░ Name ░ -->
+<h1>Fasih Ahmed Raza</h1>
 
-<br/><br/>
+<!-- ░ Role ░ -->
+<h3>AI &amp; Full Stack Engineer&nbsp;·&nbsp;Karachi, Pakistan</h3>
 
 <!-- ░ Animated typing line ░ -->
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=800&color=2F7FB5&center=true&vCenter=true&width=760&lines=Building+intelligent+AI+agents+%26+voice+pipelines;Crafting+RAG+systems+that+actually+ship;100%2B+AI+solutions+running+in+production" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3000&pause=800&color=2F7FB5&center=true&vCenter=true&width=760&lines=Building+intelligent+AI+agents+%26+voice+pipelines;Crafting+RAG+systems+that+actually+ship;100%2B+AI+solutions+running+in+production" alt="typing" />
 
 <br/>
 
@@ -215,6 +217,11 @@ A CNN and IP Adapter SDXL pipeline with 10 second inference, SegFormer pose esti
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=FasihAhmedRaza&bg_color=0d1117&color=cfe6ff&line=2f7fb5&point=ffffff&area=true&hide_border=true" width="100%" alt="activity graph" />
 
+<br/><br/>
+
+<!-- ░ Contribution snake ░ -->
+<img src="https://raw.githubusercontent.com/FasihAhmedRaza/FasihAhmedRaza/main/github-snake.svg" width="100%" alt="contribution snake" />
+
 </div>
 
 <br/>
@@ -230,8 +237,8 @@ A CNN and IP Adapter SDXL pipeline with 10 second inference, SegFormer pose esti
 <div align="center">
 
 <img src="https://img.shields.io/badge/Runner%20Up-AI%20Agent%20Hackathon%20·%20Connect%20AI-2f7fb5?style=for-the-badge&logo=devpost&logoColor=white" />
-<img src="https://img.shields.io/badge/Top%20Rated%20Seller-Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" />
-<img src="https://img.shields.io/badge/Fiverr%20Choice-Alexa%20Skill%20Developer-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" />
+<!-- <img src="https://img.shields.io/badge/Top%20Rated%20Seller-Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" />
+<img src="https://img.shields.io/badge/Fiverr%20Choice-Alexa%20Skill%20Developer-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" /> -->
 <img src="https://img.shields.io/badge/BS%20Artificial%20Intelligence-Bahria%20University-0e2a47?style=for-the-badge&logo=googlescholar&logoColor=white" />
 
 </div>
