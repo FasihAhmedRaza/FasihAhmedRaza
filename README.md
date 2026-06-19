@@ -2,8 +2,10 @@
 
 <div align="center">
 
-<!-- ░ Animated header wave (no text = reliable) ░ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e2a47,50:1c5d99,100:2f7fb5&height=160&section=header" width="100%" alt="header wave" />
+<!-- ░ Contribution snake at the top ░ -->
+<img src="https://raw.githubusercontent.com/FasihAhmedRaza/FasihAhmedRaza/main/github-snake.svg" width="100%" alt="contribution snake" />
+
+<br/>
 
 <!-- ░ Avatar, circular via wsrv.nl mask ░ -->
 <img src="https://wsrv.nl/?url=github.com/FasihAhmedRaza.png&w=240&h=240&fit=cover&mask=circle" width="170" alt="Fasih Ahmed Raza" />
@@ -217,11 +219,6 @@ A CNN and IP Adapter SDXL pipeline with 10 second inference, SegFormer pose esti
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=FasihAhmedRaza&bg_color=0d1117&color=cfe6ff&line=2f7fb5&point=ffffff&area=true&hide_border=true" width="100%" alt="activity graph" />
 
-<br/><br/>
-
-<!-- ░ Contribution snake ░ -->
-<img src="https://raw.githubusercontent.com/FasihAhmedRaza/FasihAhmedRaza/main/github-snake.svg" width="100%" alt="contribution snake" />
-
 </div>
 
 <br/>
@@ -237,8 +234,8 @@ A CNN and IP Adapter SDXL pipeline with 10 second inference, SegFormer pose esti
 <div align="center">
 
 <img src="https://img.shields.io/badge/Runner%20Up-AI%20Agent%20Hackathon%20·%20Connect%20AI-2f7fb5?style=for-the-badge&logo=devpost&logoColor=white" />
-<!-- <img src="https://img.shields.io/badge/Top%20Rated%20Seller-Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" />
-<img src="https://img.shields.io/badge/Fiverr%20Choice-Alexa%20Skill%20Developer-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" /> -->
+<img src="https://img.shields.io/badge/Top%20Rated%20Seller-Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" />
+<img src="https://img.shields.io/badge/Fiverr%20Choice-Alexa%20Skill%20Developer-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" />
 <img src="https://img.shields.io/badge/BS%20Artificial%20Intelligence-Bahria%20University-0e2a47?style=for-the-badge&logo=googlescholar&logoColor=white" />
 
 </div>
